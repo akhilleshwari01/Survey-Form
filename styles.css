@@ -4,6 +4,7 @@
    margin:0%;
 }
 body{
+    position:absolute;
     background-color: green;
 }
 h1{
