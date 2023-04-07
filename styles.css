@@ -1,33 +1,40 @@
 *{
-   padding: 0%;
-   box-sizing:border-box;
-   margin:0%;
-}
-body{
-    position:absolute;
+    padding: 0%;
+    box-sizing:border-box;
+    margin:0%;
+ }
+ body{
+    position: absolute;
     background-color: green;
-}
-h1{
-    
-    text-align: center;
 
-}
-form{
-    background-color: white;
-    padding: 30px;
-    display: block;
-    margin-left: 400px;
-    margin-right: 380px;
 
-}
-input{
-    height: 40px;
-    
-}
-label{
-    font-size: 20px;
-}
-select{
-    width: 700px;
-    height: 40px;
-}
+ }
+
+ 
+h1{     
+     text-align: center;
+ 
+ }
+ form{
+    position: relative;
+     background-color: white;
+     padding: 30px;
+     display: block;
+     margin-left: 400px;
+     margin-right: 380px;
+ 
+ }
+
+ input{
+     height: 40px;
+     
+ }
+ label{
+     font-size: 20px;
+ }
+ select{
+     width: 700px;
+     height: 40px;
+ }
+
+ 
